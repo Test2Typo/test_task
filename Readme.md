@@ -1,6 +1,7 @@
 Theoretical Part
 
-I create diagram for application from two part frontend and backend. name (./architectural_diagram.drawio.png)
+I created diagram for application from two part frontend and backend.
+Diagram in file architectural_diagram.drawio.png
 
 High Availability and Fault Tolerance:
 - Multiple availability zones for distributing resources across data centers
